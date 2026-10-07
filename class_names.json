@@ -1,0 +1,8 @@
+{
+  "class_names": [
+    "dermis",
+    "dermquest"
+  ],
+  "img_size": 224,
+  "best_model": "MobileNetV2"
+}
